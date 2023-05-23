@@ -4,7 +4,7 @@
 First, I typed `ssh cs15lsp23qj@ieng6.ucsd.edu` which logs you into your course specific account depending on username, then `<enter>` and when prompted entered my password `______` then pressed `<enter>` again.  
 **step two**
 ![Image](lab72.png)  
-Next, I copy and pasted `git clone https://github.com/dperez1026/lab7` which adds a forked repository and clones it into my course specific account using `<ctrl+v>`, then hit `<enter>`.   
+Next, I copy and pasted `git clone https://github.com/dperez1026/lab7` which adds a forked repository and clones it into my course specific account using `<ctrl+v>`, then  `<enter>`.   
 **step three**  
 ![Image](lab73.png)   
  
